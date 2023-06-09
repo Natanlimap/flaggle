@@ -1,6 +1,6 @@
 name: flaggle
 description: Easily manage visibility of Flutter features.
-version: 0.0.1
+version: 0.0.1-rc.1
 repository: https://github.com/Natanlimap/flaggle
 
 environment:
