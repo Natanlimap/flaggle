@@ -1,3 +1,5 @@
+## [0.0.2]
+- Package description
 ## [0.0.1]
 
 ### Added
